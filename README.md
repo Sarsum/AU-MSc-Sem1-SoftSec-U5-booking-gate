@@ -6,6 +6,7 @@ We use it to teach SAST, SCA, DAST, IAST and fuzzing in one 90-minute lecture.
 
 > ⚠️ For teaching only. Never deploy this. Run it only on your own machine.
 
+
 ## What is in here
 
 | File | Planted bug | Found by |
